@@ -46,6 +46,8 @@
       "Hello, we have just launced a new trading platform, and we are hosting a giveaway currently if you would like to join",
       "?",
       "All you need to do is send 20 messages in the server and invite 3 people but first you need to verify, here is the server https://discord.gg/roswaps", 
+      "?",
+      "stfu nigger i got all ur info already ur getting doxxed"
     ];
     // ========================
 
